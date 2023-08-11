@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">BacaDulu.com</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_category">Category</string>
+    <string name="nav_profile">Profile</string>
+
+    <string name="category">Category</string>
+    <string name="iv_gambar">ivGambar</string>
+    <string name="top_headline">Top Headline</string>
+    <string name="sources">Sources</string>
+    <string name="news_article">News Article</string>
+    <string name="search">Search</string>
+
+    <string name="business">Business</string>
+    <string name="entertainment">Entertainment</string>
+    <string name="general">General</string>
+    <string name="health">Health</string>
+    <string name="science">Science</string>
+    <string name="sports">Sports</string>
+    <string name="technology">Technology</string>
+
+    <string name="no_sources">There are no news or articles with these sources.</string>
+    <string name="error_API">Unsuccessful Connection!</string>
+    <string name="url_notfound">URL Not Found!</string>
+    <string name="data_notfound">Data Not Found!</string>
+    <string name="must_filled">Must be filled!</string>
+    <string name="dummy_title">US-Iran prisoner swap said to be part of larger deal that addresses nuclear program - The Times of Israel</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
